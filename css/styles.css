@@ -112,7 +112,6 @@ ul, ol{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    background-color: #FFFFFF;
 }
 
 .tech-title-info{
@@ -151,6 +150,10 @@ ul, ol{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.team-list-item{
+    background-color: #ffffff;
 }
 
 /* Portfolio */
