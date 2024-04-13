@@ -12,6 +12,8 @@ ul, ol{
     list-style: none;
 }
 
+/* Logo */
+
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -26,6 +28,8 @@ ul, ol{
     color: #2e2f42;
 }
 
+/* Nav */
+
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -39,7 +43,11 @@ ul, ol{
     color:#404BBF;
 }
 
-.addres {}
+/* Addres */
+
+.addres {
+    font-style: normal
+}
 
 .addres-link {
     font-size: 16px;
@@ -53,6 +61,11 @@ ul, ol{
     color:#404BBF
 }
 
+/* Main */
+
+.main{
+    background-color: #2e2f42;
+}
 .main-title{
     background: #2e2f42;
     font-weight: 700;
@@ -68,6 +81,7 @@ ul, ol{
 }
 
 .button {
+    font-family: "Roboto", sans-serif;
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -80,6 +94,8 @@ ul, ol{
 .button:focus{
     background-color:#404BBF;
 }
+
+/* Tech */
 
 .tech-title{
     font-weight: 700;
@@ -106,6 +122,10 @@ ul, ol{
     color: #434455;
 }
 
+/* Team */
+.team-main{
+    background-color:#f4f4fd;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -113,6 +133,7 @@ ul, ol{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-title-name {
@@ -130,6 +151,8 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+/* Portfolio */
 
 .portfolio-title {
     font-weight: 700;
@@ -155,6 +178,8 @@ ul, ol{
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+/* Footer */
 
 .footer-info{
     font-weight: 400;
